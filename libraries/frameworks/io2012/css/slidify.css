@@ -376,7 +376,7 @@ pre code {
 
 .title-slide {
   background-color: #216357; /* #EDE0CF; ; #CA9F9D*/
-  background-image:url("https://kurowska.github.io/disk_prices/libraries/frameworks/io2012/css/assets/img/blackboard-wallpapers1.jpg"); 
+  background-image:url(../../../../assets/img/blackboard-wallpapers1.jpg)
 }
 
 .title-slide hgroup > h1{
