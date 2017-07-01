@@ -28,11 +28,11 @@ Slidify or RStudio Presenter. This presentation adresses the second part of the 
 
 The application developed for the first part of the assignment is avalilable at:
 
-<a href="https://kurowska.shinyapps.io/disk_prices">https://kurowska.shinyapps.io/disk_prices</a>
+[https://kurowska.shinyapps.io/disk_prices](https://kurowska.shinyapps.io/disk_prices)
 
 The source code for ui.R and server.R files are available on GitHub:
 
-<a href="https://github.com/kurowska/disk_prices">https://github.com/kurowska/disk_prices</a>
+[https://github.com/kurowska/disk_prices](https://github.com/kurowska/disk_prices)
 
 --- .class1 #id2 bg:#216357
 
