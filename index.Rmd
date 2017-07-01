@@ -68,8 +68,8 @@ a:active { color:#ffffff; text-decoration: underline; }
 </br>
 My application uses data gathered from the following sources:
 
-* <a href="http://www.mkomo.com/cost-per-gigabyte">mkomo.com</a>
-* <a href="http://www.jcmit.net/diskprice.htm">jcmit.com</a>
+* [mkomo.com](http://www.mkomo.com/cost-per-gigabyte)
+* [jcmit.com](http://www.jcmit.net/diskprice.htm">jcmit.com)
 
 I have processed the data and used it to show how storage prices changed over 
 the years (1956 - 2017). The user may toggle various kinds of drives and fits 
