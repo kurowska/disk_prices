@@ -32,7 +32,7 @@ The application developed for the first part of the assignment is avalilable at:
 
 The source code for ui.R and server.R files are available on GitHub:
 
-<a href="https://github.com/kurowska/disk_prices/">https://github.com/kurowska/disk_prices/</a>
+<a href="https://github.com/kurowska/disk_prices">https://github.com/kurowska/disk_prices</a>
 
 --- .class1 #id2 bg:#216357
 
