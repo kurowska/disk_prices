@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax, quiz, bootstrap] # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----  .class1 #id1 .class1 #id1 bg:url(assets/img/blackboard-wallpapers1.jpg)
+---  .class1 #id1 bg:#216357
 
 <style media="screen">
 a:link { color:#b3ff1a; text-decoration: none; }
@@ -28,7 +28,7 @@ Slidify or RStudio Presenter. This presentation adresses the second part of the 
 
 The application developed for the first part of the assignment is avalilable at:
 
-<a href="https://kurowska.shinyapps.io/disk_prices>https://kurowska.shinyapps.io/disk_prices</a>
+<a href="https://kurowska.shinyapps.io/disk_prices">https://kurowska.shinyapps.io/disk_prices</a>
 
 The source code for ui.R and server.R files are available on GitHub:
 
