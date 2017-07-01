@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax, quiz, bootstrap] # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----  .class1 #id1 bg:#216357
+---  .class1 #id1 .class1 #id1 bg:url(assets/img/blackboard-wallpapers1.jpg)
 
 <style media="screen">
 a:link { color:#b3ff1a; text-decoration: none; }
@@ -58,8 +58,8 @@ has been falling rapidly for many years.
 
 <style>
 a:link { color:#b3ff1a; text-decoration: none; }
-a:visited { color:#99e600 !important; text-decoration: none; }
-a:hover { color:##ffff00 !important; text-decoration: none; }
+a:visited { color:#99e600; text-decoration: none; }
+a:hover { color:##ffff00; text-decoration: none; }
 a:active { color:#ffffff; text-decoration: underline; }
 </style>
 
